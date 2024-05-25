@@ -1,0 +1,11 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #272727;
+    color: white;
+}
+
+a {
+    color: orange;
+}
